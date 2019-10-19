@@ -1,5 +1,5 @@
 # main text of home
-name: Kumar Abir Shuvo
+name: John Doe
 bio: A Man who travels the world eating noodles
 
 # twitter summary info
@@ -30,8 +30,8 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-    shortname: mydisqus # enter this from your disqus account
-    categories: [blog, project] # only show disqus for posts that have these categories
+  shortname: mydisqus # enter this from your disqus account
+  categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 facebook: myfacebook
@@ -42,7 +42,7 @@ twitter: mytwitter
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-# github: mygithub
+github: mygithub
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -55,7 +55,7 @@ email: myemail@gmail.com
 
 authors:
     johndoe:
-        name: Kumar Abir Shuvo
+        name: John Doe
         bio: A Man who travels the world eating noodles
         external-image: false
         picture: assets/images/profile.jpg
@@ -78,7 +78,6 @@ width: normal
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
-python: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
@@ -102,23 +101,12 @@ show-author: true
 # do you want some animations?
 animation: true
 
-# add default values to specific pages or layouts
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      layout: "post"
-    values:
-      # setting all post to not hidden by default, 
-      # can be overridden in the front matter for a specific post
-      hidden: false 
-      
 plugins:
-    - jekyll-seo-tag
-    - jekyll-gist
-    - jekyll-feed
-    - jemoji
-    - jekyll-admin
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-admin
 
 jekyll-mentions:
     base_url: https://github.com
@@ -126,8 +114,7 @@ jekyll-mentions:
 compress_html:
     ignore:
         envs:
-            - development
-            - stage
+        - development
+        - stage
 
-exclude:
-    ["travis.sh", "Rakefile", "README.md", "Gemfile", "Gemfile.lock", "FAQ.md"]
+exclude: ["travis.sh", "Rakefile", "README.md", "Gemfile", "Gemfile.lock", "FAQ.md"]

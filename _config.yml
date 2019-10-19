@@ -3,7 +3,7 @@ name: Kumar Abir Shuvo
 bio: Electrical and Electronic Engineer
 
 # twitter summary info
-description: A blog about Kumar Abir Shuvo
+#description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
@@ -34,15 +34,15 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: www.facebook.com/kmrbr807
-twitter: https://twitter.com/KumarAbirShuvo1
+facebook: facebook.com/kmrbr807
+twitter: mytwitter
 # google: mygoogle
-instagram: https://www.instagram.com/kumar_abir_shuvo/
+# instagram: myinstagram
 # pinterest: mypinterest
-linkedin: https://www.linkedin.com/in/kumar-abir-shuvo-489396158/
+# linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-#github: mygithub
+github: mygithub
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -51,7 +51,7 @@ linkedin: https://www.linkedin.com/in/kumar-abir-shuvo-489396158/
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: kumar.abir27@gmail.com
+email: myemail@gmail.com
 
 authors:
     johndoe:

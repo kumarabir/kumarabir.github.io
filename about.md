@@ -4,7 +4,10 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I have completed my B.Sc. in Electrical and Electronic Engineering from Ahsanullah University of Science and Technology. I have a great fascination about engineering and always try to learn new things around the world. I try my best to be punctual, loyal and honest.
-I believe, life is short so we should try to do things for bigger memory!
-I love traveling, listening music, cricket,football and other indoor games.</p>
+<p>I have a great fascination about engineering so I have become an electrical and electronic engineer.
+My strength includes willingness to learn and grow with sincerity, honesty, dedication, result oriented, and patient enough to work for a long time.
+I have the necessary skills for engineering work related to my field. I am organized, resourceful, personable and a fast learner.
+Specially I have "Can do attitude"
+Various kind of sports, travelling, music, hanging out is my part of interest.
+I believe, life is short so we should try to do things for bigger memory!.</p>
 
